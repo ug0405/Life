@@ -1,0 +1,1 @@
+ja-JP\setup.exe /configure ja-JP\configuration64.xml

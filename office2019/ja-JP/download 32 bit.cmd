@@ -1,0 +1,1 @@
+setup.exe /download configuration32.xml
